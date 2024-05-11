@@ -1,31 +1,43 @@
-# dio-trilha-java-basico
+# Trilha Java Básico - Bootcamp Santander | DIO
 
-# Conta Banco
+O pacote "dio-trilha-java-básico" faz parte do Bootcamp Santander oferecido em parceria com a Digital Innovation One (DIO). Este pacote é projetado para fornecer uma trilha completa de aprendizado em Java, desde os conceitos básicos até os tópicos avançados, com foco em projetos práticos e hands-on.
 
-Este é um projeto simples em Java desenvolvido como parte do Bootcamp Santander Java da Digital Innovation One. O projeto permite aos usuários gerenciar suas contas bancárias de forma prática e intuitiva.
+## Objetivo
 
-## Funcionalidades
+A trilha Java Básico do Bootcamp Santander tem como objetivo capacitar os participantes com habilidades sólidas em programação Java, proporcionando-lhes uma base sólida para construir aplicações robustas e escaláveis.
 
-- **Primeiro Acesso:**
-  - Os novos usuários podem criar uma conta bancária fornecendo seu nome, CPF e senha.
+## Conteúdo
 
-- **Acesso para Clientes Existentes:**
-  - Os clientes existentes podem acessar sua conta fornecendo seu CPF e senha.
+Ao longo da trilha, os participantes explorarão uma variedade de tópicos, incluindo:
+- Introdução à linguagem Java
+- Estruturas de controle e repetição
+- Classes e objetos
+- Herança e polimorfismo
+- Tratamento de exceções
+- Coleções e estruturas de dados
+- Manipulação de arquivos
+- Conexão com banco de dados
+- Desenvolvimento web com Servlets e JSP
+- Introdução ao Spring Framework
 
-- **Verificação de Saldo:**
-  - Os usuários podem verificar o saldo de suas contas após o login.
+## Projetos Práticos
 
-- **Operações Bancárias:**
-  - Os clientes podem realizar operações bancárias básicas, como saques, depósitos e transferências.
+A trilha inclui projetos práticos que permitem aos participantes aplicar os conhecimentos teóricos em situações do mundo real. Esses projetos são fundamentais para consolidar o aprendizado e desenvolver habilidades práticas em Java.
 
-## Tecnologias Utilizadas
+## Público-Alvo
 
-- Java
+Este pacote é ideal para estudantes, desenvolvedores iniciantes e profissionais que desejam aprimorar suas habilidades em Java e construir uma carreira sólida no desenvolvimento de software.
 
-## Autor
+## Instrutores
 
-- [Glailton Nascimento](https://www.linkedin.com/in/glailtonsantannadonascimento-b75413116/) - Desenvolvedor
+Os cursos são ministrados por instrutores experientes e qualificados da Digital Innovation One, em parceria com profissionais do Santander, que compartilham suas experiências e conhecimentos práticos em Java.
 
-## Licença
+## Certificação
 
-Este projeto está sob a [Licença MIT](https://opensource.org/licenses/MIT).
+Ao concluir com sucesso todos os cursos e projetos da trilha, os participantes receberão um certificado de conclusão reconhecido pelo Santander e pela Digital Innovation One.
+
+Comece sua jornada de aprendizado em Java hoje mesmo com a trilha "dio-trilha-java-básico" e impulsione sua carreira no desenvolvimento de software.
+
+
+- [Glailton Nascimento](https://www.linkedin.com/in/glailtonsantannadonascimento-b75413116/) - aluno
+
