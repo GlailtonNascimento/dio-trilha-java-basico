@@ -1,7 +1,0 @@
-### Implementação do Sistema de Validação de Processo Seletivo
-
-- Adicionada a classe `Candidato` para armazenar informações dos candidatos.
-- Adicionada a classe `ProcessoSeletivo` para gerenciar as inscrições e validações.
-- Implementação da validação de idade e email dos candidatos.
-- Contagem e listagem dos candidatos inscritos com sucesso.
-- Nova funcionalidade de validação por pretensão salarial e anos de experiência na função.
